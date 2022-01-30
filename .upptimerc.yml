@@ -33,7 +33,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://seanstaffiery.com/favicon.ico
   name: Status Page
-  introTitle: "Sean Staffiery System and Service Status Page"
+  introTitle: "Sean Staffiery Holdings Status Page"
   introMessage: This webpage hosts the status of all systems and services that Sean Staffiery Holdings uses
   navbar:
     - title: Status
