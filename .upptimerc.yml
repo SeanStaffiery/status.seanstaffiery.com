@@ -9,6 +9,10 @@ sites:
     url: https://seanstaffiery.dev
   - name: thehosmers.com
     url: https://thehosmers.com
+  - name: projects.seanstaffiery.com
+    url: https://projects.seanstaffiery.com
+  - name: pgp.seanstaffiery.com
+    url: https://pgp.seanstaffiery.com
   - name: DigitalOcean
     url: https://status.digitalocean.com/
   - name: Cloudflare
@@ -25,7 +29,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.seanstaffiery.com
   # baseUrl: /your-repo-name
   logoUrl: https://seanstaffiery.com/favicon.ico
   name: Status Page
