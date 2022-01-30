@@ -9,10 +9,6 @@ sites:
     url: https://seanstaffiery.dev
   - name: thehosmers.com
     url: https://thehosmers.com
-  - name: projects.seanstaffiery.com
-    url: https://projects.seanstaffiery.com
-  - name: pgp.seanstaffiery.com
-    url: https://pgp.seanstaffiery.com
   - name: DigitalOcean
     url: https://status.digitalocean.com/
   - name: Cloudflare
