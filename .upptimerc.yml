@@ -31,6 +31,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.seanstaffiery.com
   # baseUrl: /your-repo-name
+  theme: dark
   logoUrl: https://seanstaffiery.com/favicon.ico
   name: status.seanstaffiery.com
   introTitle: "Sean Staffiery Holdings Status Page"
