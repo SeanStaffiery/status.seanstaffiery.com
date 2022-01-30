@@ -1,5 +1,5 @@
 # Change these first
-owner: seanstaffiery.com # Your GitHub organization or username, where this repository lives
+owner: seanstaffiery # Your GitHub organization or username, where this repository lives
 repo: status.seanstaffiery.com # The name of this repository
 
 sites:
@@ -14,17 +14,17 @@ sites:
   - name: pgp.seanstaffiery.com
     url: https://pgp.seanstaffiery.com
   - name: DigitalOcean
-    url: https://status.digitalocean.com/
+    url: https://status.digitalocean.com
   - name: Cloudflare
-    url: https://www.cloudflarestatus.com/
+    url: https://www.cloudflarestatus.com
   - name: Zoho
-    url: https://status.zoho.com/
+    url: https://status.zoho.com
   - name: Microsoft Azure
     url: https://status.azure.com/en-us/status
   - name: Google Cloud
-    url: https://status.cloud.google.com/
+    url: https://status.cloud.google.com
   - name: Amazon Web Services
-    url: https://status.aws.amazon.com/
+    url: https://status.aws.amazon.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
