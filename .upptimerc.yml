@@ -35,7 +35,7 @@ status-website:
   logoUrl: https://seanstaffiery.com/favicon.ico
   name: status.seanstaffiery.com
   introTitle: "Sean Staffiery Holdings Status Page"
-  introMessage: This webpage hosts the status of all systems and services that Sean Staffiery Holdings uses
+  introMessage: This webpage hosts the status of all systems and services that Sean Staffiery Holdings uses.
   navbar:
     - title: Status
       href: /
