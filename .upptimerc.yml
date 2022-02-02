@@ -16,19 +16,19 @@ sites:
   - name: thehosmers.com
     url: https://thehosmers.com
   - name: DigitalOcean
-    url: https://status.digitalocean.com
+    url: https://digitalocean.com
   - name: Cloudflare
-    url: https://www.cloudflarestatus.com
+    url: https://www.cloudflare.com
   - name: Zoho
-    url: https://status.zoho.com
+    url: https://zoho.com
   - name: Microsoft Azure (Azure) 
-    url: https://status.azure.com/en-us/status
+    url: https://azure.com
   - name: Google Cloud Platform (GCP)
-    url: https://status.cloud.google.com
+    url: https://cloud.google.com
   - name: Amazon Web Services (AWS)
-    url: https://status.aws.amazon.com
+    url: https://aws.amazon.com
   - name: GitHub
-    url: https://www.githubstatus.com
+    url: https://github.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
