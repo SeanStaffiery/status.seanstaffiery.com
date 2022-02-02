@@ -27,6 +27,8 @@ sites:
     url: https://status.cloud.google.com
   - name: Amazon Web Services (AWS)
     url: https://status.aws.amazon.com
+  - name: GitHub
+    url: https://www.githubstatus.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
