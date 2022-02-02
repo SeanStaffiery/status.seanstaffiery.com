@@ -5,25 +5,27 @@ repo: status.seanstaffiery.com # The name of this repository
 sites:
   - name: seanstaffiery.com
     url: https://seanstaffiery.com
-  - name: seanstaffiery.dev
-    url: https://seanstaffiery.dev
-  - name: thehosmers.com
-    url: https://thehosmers.com
   - name: projects.seanstaffiery.com
     url: https://projects.seanstaffiery.com
   - name: pgp.seanstaffiery.com
     url: https://pgp.seanstaffiery.com
+  - name: seanstaffiery.dev
+    url: https://seanstaffiery.dev
+  - name: seanstaffiery.net
+    url: https://seanstaffiery.net  
+  - name: thehosmers.com
+    url: https://thehosmers.com
   - name: DigitalOcean
     url: https://status.digitalocean.com
   - name: Cloudflare
     url: https://www.cloudflarestatus.com
   - name: Zoho
     url: https://status.zoho.com
-  - name: Microsoft Azure
+  - name: Microsoft Azure (Azure) 
     url: https://status.azure.com/en-us/status
-  - name: Google Cloud
+  - name: Google Cloud Platform (GCP)
     url: https://status.cloud.google.com
-  - name: Amazon Web Services
+  - name: Amazon Web Services (AWS)
     url: https://status.aws.amazon.com
 
 status-website:
