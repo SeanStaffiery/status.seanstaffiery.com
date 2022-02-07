@@ -215,19 +215,19 @@
     "url": "https://aws.amazon.com",
     "icon": "https://favicons.githubusercontent.com/aws.amazon.com",
     "slug": "amazon-web-services-aws",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 755,
-    "timeDay": 1821,
-    "timeWeek": 755,
-    "timeMonth": 755,
-    "timeYear": 755,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
+    "time": 689,
+    "timeDay": 1265,
+    "timeWeek": 689,
+    "timeMonth": 689,
+    "timeYear": 689,
     "dailyMinutesDown": {
-      "2022-02-07": 0
+      "2022-02-07": 19
     }
   },
   {
