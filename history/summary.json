@@ -203,18 +203,20 @@
     "url": "https://cloud.google.com",
     "icon": "https://favicons.githubusercontent.com/cloud.google.com",
     "slug": "google-cloud-platform-gcp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2587,
-    "timeDay": 2714,
-    "timeWeek": 2454,
-    "timeMonth": 3075,
-    "timeYear": 2587,
-    "dailyMinutesDown": {}
+    "time": 2864,
+    "timeDay": 7918,
+    "timeWeek": 3787,
+    "timeMonth": 3421,
+    "timeYear": 2864,
+    "dailyMinutesDown": {
+      "2022-03-09": 0
+    }
   },
   {
     "name": "Amazon Web Services (AWS)",
