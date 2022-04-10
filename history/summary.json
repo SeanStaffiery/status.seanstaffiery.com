@@ -28,9 +28,9 @@
     "url": "https://projects.seanstaffiery.com",
     "icon": "https://favicons.githubusercontent.com/projects.seanstaffiery.com",
     "slug": "projects-seanstaffiery-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
@@ -40,6 +40,7 @@
     "timeMonth": 282,
     "timeYear": 280,
     "dailyMinutesDown": {
+      "2022-04-10": 0,
       "2022-01-31": 134,
       "2022-01-30": 139
     }
