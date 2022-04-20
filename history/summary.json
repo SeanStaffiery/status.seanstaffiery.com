@@ -111,11 +111,11 @@
     "icon": "https://favicons.githubusercontent.com/thehosmers.com",
     "slug": "thehosmers-com",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 227,
     "timeDay": 193,
     "timeWeek": 215,
@@ -186,9 +186,9 @@
     "url": "https://azure.com",
     "icon": "https://favicons.githubusercontent.com/azure.com",
     "slug": "microsoft-azure-azure",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -197,7 +197,9 @@
     "timeWeek": 931,
     "timeMonth": 876,
     "timeYear": 856,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-20": 0
+    }
   },
   {
     "name": "Google Cloud Platform (GCP)",
