@@ -9,6 +9,8 @@ sites:
     url: https://projects.seanstaffiery.com
   - name: pgp.seanstaffiery.com
     url: https://pgp.seanstaffiery.com
+  - name: home.seanstaffiery.com
+    url: https://home.seanstaffiery.com
   - name: seanstaffiery.dev
     url: https://seanstaffiery.dev
   - name: seanstaffiery.net
@@ -21,6 +23,8 @@ sites:
     url: https://www.cloudflare.com
   - name: Zoho
     url: https://zoho.com
+  - name: Proofpoint
+    url: https://proofpoint.com
   - name: Microsoft Azure (Azure) 
     url: https://azure.com
   - name: Google Cloud Platform (GCP)
