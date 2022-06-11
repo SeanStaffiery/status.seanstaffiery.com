@@ -3,27 +3,27 @@ owner: seanstaffiery # Your GitHub organization or username, where this reposito
 repo: status.seanstaffiery.com # The name of this repository
 
 sites:
-  - name: Central Website: seanstaffiery.com
+  - name: Central Website - seanstaffiery.com
     url: https://seanstaffiery.com
-  - name: File Server: files.seanstaffiery.com
+  - name: File Server - files.seanstaffiery.com
     url: https://files.seanstaffiery.com
-  - name: Flarum Forum: forum.seanstaffiery.com
+  - name: Flarum Forum - forum.seanstaffiery.com
     url: https://forum.seanstaffiery.com
-  - name: Projects Website: projects.seanstaffiery.com
+  - name: Projects Website - projects.seanstaffiery.com
     url: https://projects.seanstaffiery.com
-  - name: PGP Fingerprints: pgp.seanstaffiery.com
+  - name: PGP Fingerprints - pgp.seanstaffiery.com
     url: https://pgp.seanstaffiery.com
-  - name: NextCloud: home.seanstaffiery.com
+  - name: NextCloud - home.seanstaffiery.com
     url: https://home.seanstaffiery.com
-  - name: Development Blog: blog.seanstaffiery.com
+  - name: Development Blog - blog.seanstaffiery.com
     url: https://blog.seanstaffiery.com
-  - name: Resume Website: seanstaffiery.dev
+  - name: Resume Website - seanstaffiery.dev
     url: https://seanstaffiery.dev
-  - name: Repository: seanstaffiery.net
+  - name: Repository - seanstaffiery.net
     url: https://seanstaffiery.net  
-  - name: Family Website: thehosmers.com
+  - name: Family Website - thehosmers.com
     url: https://thehosmers.com
-  - name: IPFS Central Site: ipfs.io
+  - name: IPFS Central Site - ipfs.io
     url: https://ipfs.io
   - name: IPFS Gateway 1/2
     url: https://ipfs.seanstaffiery.com
