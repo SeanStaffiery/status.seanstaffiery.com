@@ -70,19 +70,19 @@
     "url": "https://projects.seanstaffiery.com",
     "icon": "https://favicons.githubusercontent.com/projects.seanstaffiery.com",
     "slug": "projects-website-projects-seanstaffiery-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 505,
-    "timeDay": 10072,
-    "timeWeek": 2726,
-    "timeMonth": 850,
-    "timeYear": 505,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 502,
+    "timeDay": 6802,
+    "timeWeek": 2452,
+    "timeMonth": 833,
+    "timeYear": 502,
     "dailyMinutesDown": {
-      "2022-08-26": 0
+      "2022-08-26": 7
     }
   },
   {
