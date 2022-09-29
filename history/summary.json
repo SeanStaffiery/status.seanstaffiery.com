@@ -319,18 +319,19 @@
     "url": "https://ipfs.seanstaffiery.dev",
     "icon": "https://favicons.githubusercontent.com/ipfs.seanstaffiery.dev",
     "slug": "ipfs-gateway-2-2",
-    "status": "up",
-    "uptime": "98.05%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.07%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "98.26%",
-    "uptimeMonth": "99.15%",
-    "uptimeYear": "98.05%",
+    "uptimeMonth": "99.14%",
+    "uptimeYear": "98.07%",
     "time": 2706,
     "timeDay": 520,
     "timeWeek": 581,
     "timeMonth": 617,
     "timeYear": 2706,
     "dailyMinutesDown": {
+      "2022-09-29": 1,
       "2022-09-26": 56,
       "2022-09-24": 42,
       "2022-09-23": 78,
@@ -370,8 +371,7 @@
       "2022-06-15": 139,
       "2022-06-14": 184,
       "2022-06-13": 101,
-      "2022-06-12": 217,
-      "2022-06-11": 23
+      "2022-06-12": 217
     }
   },
   {
