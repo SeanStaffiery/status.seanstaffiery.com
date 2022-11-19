@@ -279,18 +279,19 @@
     "url": "https://ipfs.seanstaffiery.com",
     "icon": "https://icons.duckduckgo.com/ip3/ipfs.seanstaffiery.com.ico",
     "slug": "ipfs-gateway-1-2",
-    "status": "up",
-    "uptime": "98.72%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.73%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.33%",
-    "uptimeYear": "98.72%",
+    "uptimeYear": "98.73%",
     "time": 2379,
     "timeDay": 586,
     "timeWeek": 492,
     "timeMonth": 583,
     "timeYear": 2379,
     "dailyMinutesDown": {
+      "2022-11-19": 0,
       "2022-11-16": 75,
       "2022-11-15": 21,
       "2022-11-07": 18,
@@ -348,8 +349,7 @@
       "2022-06-24": 22,
       "2022-06-22": 26,
       "2022-06-21": 194,
-      "2022-06-20": 101,
-      "2022-06-19": 20
+      "2022-06-20": 101
     }
   },
   {
