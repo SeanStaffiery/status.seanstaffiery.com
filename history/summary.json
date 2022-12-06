@@ -371,12 +371,12 @@
     "url": "https://ipfs.seanstaffiery.dev",
     "icon": "https://icons.duckduckgo.com/ip3/ipfs.seanstaffiery.dev.ico",
     "slug": "ipfs-gateway-2-2",
-    "status": "up",
-    "uptime": "98.71%",
-    "uptimeDay": "98.60%",
+    "status": "down",
+    "uptime": "98.72%",
+    "uptimeDay": "98.57%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.64%",
-    "uptimeYear": "98.71%",
+    "uptimeYear": "98.72%",
     "time": 2296,
     "timeDay": 1104,
     "timeWeek": 1488,
@@ -438,7 +438,7 @@
       "2022-06-18": 277,
       "2022-06-17": 218,
       "2022-06-16": 123,
-      "2022-06-15": 96
+      "2022-06-15": 76
     }
   },
   {
