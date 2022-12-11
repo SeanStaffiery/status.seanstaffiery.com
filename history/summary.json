@@ -126,7 +126,7 @@
     "uptimeMonth": "98.33%",
     "uptimeYear": "99.48%",
     "time": 530,
-    "timeDay": 327,
+    "timeDay": 386,
     "timeWeek": 392,
     "timeMonth": 341,
     "timeYear": 530,
@@ -257,11 +257,11 @@
     "url": "https://ipfs.io",
     "icon": "https://icons.duckduckgo.com/ip3/ipfs.io.ico",
     "slug": "ipfs-central-site-ipfs-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.12%",
-    "uptimeDay": "98.73%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.12%",
     "time": 245,
     "timeDay": 895,
@@ -269,7 +269,7 @@
     "timeMonth": 655,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2022-12-11": 18,
+      "2022-12-11": 21,
       "2022-12-09": 74,
       "2022-10-16": 20,
       "2022-10-15": 138,
@@ -296,10 +296,10 @@
     "url": "https://ipfs.seanstaffiery.com",
     "icon": "https://icons.duckduckgo.com/ip3/ipfs.seanstaffiery.com.ico",
     "slug": "ipfs-gateway-1-2",
-    "status": "up",
+    "status": "down",
     "uptime": "98.61%",
-    "uptimeDay": "54.58%",
-    "uptimeWeek": "80.71%",
+    "uptimeDay": "55.48%",
+    "uptimeWeek": "80.69%",
     "uptimeMonth": "94.92%",
     "uptimeYear": "98.61%",
     "time": 2468,
@@ -308,7 +308,7 @@
     "timeMonth": 2555,
     "timeYear": 2468,
     "dailyMinutesDown": {
-      "2022-12-11": 281,
+      "2022-12-11": 283,
       "2022-12-10": 505,
       "2022-12-09": 226,
       "2022-12-08": 297,
@@ -355,7 +355,7 @@
       "2022-07-21": 41,
       "2022-07-18": 16,
       "2022-07-17": 112,
-      "2022-07-16": 75
+      "2022-07-16": 59
     }
   },
   {
@@ -363,10 +363,10 @@
     "url": "https://ipfs.seanstaffiery.dev",
     "icon": "https://icons.duckduckgo.com/ip3/ipfs.seanstaffiery.dev.ico",
     "slug": "ipfs-gateway-2-2",
-    "status": "up",
+    "status": "down",
     "uptime": "98.61%",
-    "uptimeDay": "65.64%",
-    "uptimeWeek": "82.21%",
+    "uptimeDay": "66.64%",
+    "uptimeWeek": "82.20%",
     "uptimeMonth": "95.64%",
     "uptimeYear": "98.61%",
     "time": 2407,
@@ -423,8 +423,7 @@
       "2022-07-07": 16,
       "2022-07-06": 15,
       "2022-07-05": 24,
-      "2022-07-03": 67,
-      "2022-07-01": 16
+      "2022-07-03": 67
     }
   },
   {
