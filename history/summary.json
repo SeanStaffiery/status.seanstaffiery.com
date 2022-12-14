@@ -123,7 +123,7 @@
     "uptime": "99.46%",
     "uptimeDay": "98.79%",
     "uptimeWeek": "98.83%",
-    "uptimeMonth": "98.40%",
+    "uptimeMonth": "98.41%",
     "uptimeYear": "99.46%",
     "time": 527,
     "timeDay": 352,
@@ -261,9 +261,9 @@
     "slug": "ipfs-central-site-ipfs-io",
     "status": "up",
     "uptime": "99.12%",
-    "uptimeDay": "98.00%",
-    "uptimeWeek": "98.54%",
-    "uptimeMonth": "99.67%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "98.65%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "99.12%",
     "time": 266,
     "timeDay": 712,
@@ -271,7 +271,6 @@
     "timeMonth": 698,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2022-12-14": 11,
       "2022-12-13": 44,
       "2022-12-11": 18,
       "2022-12-09": 74,
@@ -308,7 +307,7 @@
     "uptimeYear": "98.50%",
     "time": 2430,
     "timeDay": 837,
-    "timeWeek": 2433,
+    "timeWeek": 2451,
     "timeMonth": 2429,
     "timeYear": 2430,
     "dailyMinutesDown": {
@@ -460,9 +459,9 @@
     "url": "https://zoho.com",
     "icon": "https://icons.duckduckgo.com/ip3/zoho.com.ico",
     "slug": "zoho",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -472,6 +471,7 @@
     "timeMonth": 3235,
     "timeYear": 2003,
     "dailyMinutesDown": {
+      "2022-12-14": 0,
       "2022-11-03": 51,
       "2022-02-02": 61
     }
