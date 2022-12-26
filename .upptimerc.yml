@@ -21,6 +21,8 @@ sites:
     url: https://seanstaffiery.dev
   - name: Repository - seanstaffiery.net
     url: https://seanstaffiery.net  
+  - name: Computer Repair 
+    url: https://seanstaffieryholdings.square.site
   - name: Family Website - thehosmers.com
     url: https://thehosmers.com
   - name: IPFS Central Site - ipfs.io
@@ -45,6 +47,8 @@ sites:
     url: https://aws.amazon.com
   - name: Firebase
     url: https://firebase.google.com
+  - name: Square
+    url: https://squareup.com
   - name: GitHub
     url: https://github.com
   - name: SendGrid
