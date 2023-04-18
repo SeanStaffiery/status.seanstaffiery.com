@@ -1,7 +1,7 @@
 url: https://azure.com
-status: down
-code: 503
-responseTime: 972
-lastUpdated: 2023-04-18T15:37:05.424Z
+status: up
+code: 200
+responseTime: 630
+lastUpdated: 2023-04-18T15:45:36.172Z
 startTime: Wed Feb 02 2022 23:24:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
