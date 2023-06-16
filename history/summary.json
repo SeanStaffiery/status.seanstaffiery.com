@@ -112,18 +112,19 @@
     "url": "https://cloud.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.google.com.ico",
     "slug": "google-cloud-platform-gcp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2488,
+    "time": 2489,
     "timeDay": 3340,
     "timeWeek": 2656,
     "timeMonth": 2675,
     "timeYear": 2293,
     "dailyMinutesDown": {
+      "2023-06-16": 1,
       "2022-08-24": 18
     }
   },
@@ -150,9 +151,9 @@
     "url": "https://firebase.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/firebase.google.com.ico",
     "slug": "firebase",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -161,7 +162,9 @@
     "timeWeek": 442,
     "timeMonth": 479,
     "timeYear": 516,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-16": 0
+    }
   },
   {
     "name": "Square",
