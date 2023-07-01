@@ -9,15 +9,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 249,
-    "timeDay": 83,
-    "timeWeek": 198,
-    "timeMonth": 196,
-    "timeYear": 221,
-    "dailyMinutesDown": {
-      "2022-07-01": 16
-    }
+    "uptimeYear": "100.00%",
+    "time": 250,
+    "timeDay": 289,
+    "timeWeek": 219,
+    "timeMonth": 197,
+    "timeYear": 219,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cloudflare",
@@ -29,15 +27,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 53,
-    "timeWeek": 111,
-    "timeMonth": 115,
-    "timeYear": 101,
-    "dailyMinutesDown": {
-      "2022-07-01": 16
-    }
+    "timeDay": 140,
+    "timeWeek": 124,
+    "timeMonth": 116,
+    "timeYear": 102,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Zoho",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2310,
-    "timeDay": 3457,
-    "timeWeek": 3227,
-    "timeMonth": 2256,
-    "timeYear": 2803,
+    "time": 2316,
+    "timeDay": 3766,
+    "timeWeek": 3233,
+    "timeMonth": 2299,
+    "timeYear": 2812,
     "dailyMinutesDown": {
       "2022-11-03": 51
     }
@@ -71,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 601,
-    "timeDay": 295,
-    "timeWeek": 599,
-    "timeMonth": 566,
+    "timeDay": 623,
+    "timeWeek": 613,
+    "timeMonth": 563,
     "timeYear": 600,
     "dailyMinutesDown": {
       "2023-05-29": 17,
@@ -92,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 973,
-    "timeDay": 7019,
-    "timeWeek": 4915,
-    "timeMonth": 1951,
-    "timeYear": 1004,
+    "time": 984,
+    "timeDay": 5628,
+    "timeWeek": 5565,
+    "timeMonth": 2127,
+    "timeYear": 1015,
     "dailyMinutesDown": {
       "2023-04-18": 15,
       "2022-11-02": 20,
@@ -115,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 2413,
-    "timeDay": 2650,
-    "timeWeek": 1618,
-    "timeMonth": 2587,
-    "timeYear": 2244,
+    "time": 2411,
+    "timeDay": 1354,
+    "timeWeek": 1651,
+    "timeMonth": 2084,
+    "timeYear": 2239,
     "dailyMinutesDown": {
       "2023-06-16": 23,
       "2022-08-24": 18
@@ -137,9 +133,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 302,
-    "timeDay": 185,
-    "timeWeek": 286,
-    "timeMonth": 285,
+    "timeDay": 343,
+    "timeWeek": 312,
+    "timeMonth": 287,
     "timeYear": 304,
     "dailyMinutesDown": {}
   },
@@ -155,9 +151,9 @@
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.98%",
     "time": 540,
-    "timeDay": 592,
-    "timeWeek": 490,
-    "timeMonth": 802,
+    "timeDay": 437,
+    "timeWeek": 461,
+    "timeMonth": 812,
     "timeYear": 545,
     "dailyMinutesDown": {
       "2023-06-20": 81,
@@ -176,9 +172,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 323,
-    "timeDay": 103,
-    "timeWeek": 173,
-    "timeMonth": 193,
+    "timeDay": 222,
+    "timeWeek": 190,
+    "timeMonth": 187,
     "timeYear": 323,
     "dailyMinutesDown": {}
   },
@@ -193,11 +189,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 178,
-    "timeDay": 150,
-    "timeWeek": 183,
-    "timeMonth": 152,
-    "timeYear": 189,
+    "time": 179,
+    "timeDay": 218,
+    "timeWeek": 209,
+    "timeMonth": 153,
+    "timeYear": 188,
     "dailyMinutesDown": {
       "2022-09-25": 21
     }
@@ -213,11 +209,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 365,
-    "timeDay": 460,
-    "timeWeek": 349,
-    "timeMonth": 344,
-    "timeYear": 365,
+    "time": 366,
+    "timeDay": 705,
+    "timeWeek": 436,
+    "timeMonth": 352,
+    "timeYear": 366,
     "dailyMinutesDown": {}
   }
 ]
