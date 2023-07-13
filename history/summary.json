@@ -125,18 +125,20 @@
     "url": "https://aws.amazon.com",
     "icon": "https://icons.duckduckgo.com/ip3/aws.amazon.com.ico",
     "slug": "amazon-web-services-aws",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 304,
-    "timeDay": 233,
-    "timeWeek": 316,
-    "timeMonth": 313,
-    "timeYear": 307,
-    "dailyMinutesDown": {}
+    "time": 313,
+    "timeDay": 2742,
+    "timeWeek": 933,
+    "timeMonth": 463,
+    "timeYear": 320,
+    "dailyMinutesDown": {
+      "2023-07-13": 0
+    }
   },
   {
     "name": "Firebase",
