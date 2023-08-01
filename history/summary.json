@@ -22,18 +22,20 @@
     "url": "https://www.cloudflare.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.cloudflare.com.ico",
     "slug": "cloudflare",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 102,
-    "timeDay": 61,
-    "timeWeek": 80,
-    "timeMonth": 86,
-    "timeYear": 99,
-    "dailyMinutesDown": {}
+    "time": 114,
+    "timeDay": 3120,
+    "timeWeek": 842,
+    "timeMonth": 277,
+    "timeYear": 116,
+    "dailyMinutesDown": {
+      "2023-08-01": 0
+    }
   },
   {
     "name": "Zoho",
