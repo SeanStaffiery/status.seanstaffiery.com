@@ -47,18 +47,20 @@
     "url": "https://zoho.com",
     "icon": "https://icons.duckduckgo.com/ip3/zoho.com.ico",
     "slug": "zoho",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2957,
+    "time": 2956,
     "timeDay": 3843,
     "timeWeek": 3781,
     "timeMonth": 3723,
     "timeYear": 2938,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-12": 0
+    }
   },
   {
     "name": "Proofpoint",
@@ -194,7 +196,7 @@
     "uptimeYear": "100.00%",
     "time": 157,
     "timeDay": 45,
-    "timeWeek": 80,
+    "timeWeek": 91,
     "timeMonth": 121,
     "timeYear": 145,
     "dailyMinutesDown": {}
