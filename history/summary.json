@@ -67,11 +67,11 @@
     "url": "https://proofpoint.com",
     "icon": "https://icons.duckduckgo.com/ip3/proofpoint.com.ico",
     "slug": "proofpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 675,
     "timeDay": 334,
@@ -79,7 +79,7 @@
     "timeMonth": 642,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2024-01-23": 8,
+      "2024-01-23": 0,
       "2023-05-29": 17
     }
   },
