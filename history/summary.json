@@ -87,18 +87,19 @@
     "url": "https://azure.com",
     "icon": "https://icons.duckduckgo.com/ip3/azure.com.ico",
     "slug": "microsoft-azure-azure",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2884,
+    "time": 2890,
     "timeDay": 2775,
     "timeWeek": 5546,
     "timeMonth": 5035,
     "timeYear": 3574,
     "dailyMinutesDown": {
+      "2024-01-29": 0,
       "2023-04-18": 15
     }
   },
