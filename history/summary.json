@@ -204,19 +204,19 @@
     "url": "https://sendgrid.com",
     "icon": "https://icons.duckduckgo.com/ip3/sendgrid.com.ico",
     "slug": "send-grid",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 318,
-    "timeDay": 74,
-    "timeWeek": 286,
-    "timeMonth": 231,
+    "timeDay": 111,
+    "timeWeek": 268,
+    "timeMonth": 229,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2024-05-23": 0,
+      "2024-05-23": 8,
       "2024-02-22": 31
     }
   }
