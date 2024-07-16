@@ -85,18 +85,20 @@
     "url": "https://azure.com",
     "icon": "https://icons.duckduckgo.com/ip3/azure.com.ico",
     "slug": "microsoft-azure-azure",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4131,
+    "time": 4138,
     "timeDay": 2325,
     "timeWeek": 2436,
     "timeMonth": 2369,
     "timeYear": 4936,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-16": 0
+    }
   },
   {
     "name": "Google Cloud Platform (GCP)",
