@@ -67,18 +67,20 @@
     "url": "https://proofpoint.com",
     "icon": "https://icons.duckduckgo.com/ip3/proofpoint.com.ico",
     "slug": "proofpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 663,
-    "timeDay": 317,
-    "timeWeek": 543,
-    "timeMonth": 533,
+    "timeDay": 573,
+    "timeWeek": 578,
+    "timeMonth": 542,
     "timeYear": 697,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-24": 0
+    }
   },
   {
     "name": "Microsoft Azure (Azure)",
