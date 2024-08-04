@@ -86,18 +86,20 @@
     "url": "https://azure.com",
     "icon": "https://icons.duckduckgo.com/ip3/azure.com.ico",
     "slug": "microsoft-azure-azure",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4213,
+    "time": 4220,
     "timeDay": 3606,
     "timeWeek": 2638,
     "timeMonth": 2838,
     "timeYear": 4809,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-04": 0
+    }
   },
   {
     "name": "Google Cloud Platform (GCP)",
@@ -127,18 +129,16 @@
     "slug": "amazon-web-services-aws",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 296,
     "timeDay": 163,
     "timeWeek": 179,
     "timeMonth": 210,
     "timeYear": 278,
-    "dailyMinutesDown": {
-      "2024-08-04": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Firebase",
