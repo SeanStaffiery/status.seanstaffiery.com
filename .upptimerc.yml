@@ -11,20 +11,28 @@ sites:
     url: https://zoho.com
   - name: Proofpoint
     url: https://proofpoint.com
+  - name: SendGrid
+    url: https://sendgrid.com
+  - name: Red Sift 
+    url: https://redsift.com
   - name: Microsoft Azure (Azure) 
     url: https://azure.com
   - name: Google Cloud Platform (GCP)
     url: https://cloud.google.com
   - name: Amazon Web Services (AWS)
     url: https://aws.amazon.com
+  - name: Oracle Cloud
+    url: https://cloud.oracle.com
   - name: Firebase
     url: https://firebase.google.com
   - name: Square
     url: https://squareup.com
   - name: GitHub
     url: https://github.com
-  - name: SendGrid
-    url: https://sendgrid.com
+  - name: Netlify 
+    url: https://www.netlify.com
+  - name: Vercel
+    url: https://vercel.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
