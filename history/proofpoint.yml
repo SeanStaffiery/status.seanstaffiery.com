@@ -1,7 +1,7 @@
 url: https://proofpoint.com
-status: up
-code: 200
-responseTime: 496
-lastUpdated: 2024-09-16T23:15:55.698Z
+status: down
+code: 503
+responseTime: 20183
+lastUpdated: 2024-09-17T10:34:02.562Z
 startTime: 2022-05-08T17:19:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
