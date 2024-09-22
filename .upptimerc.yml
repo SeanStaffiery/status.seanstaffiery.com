@@ -25,15 +25,23 @@ sites:
     url: https://cloud.oracle.com
   - name: Firebase
     url: https://firebase.google.com
+  - name: Blogger
+    url: https://www.blogger.com
+  - name: Squarespace
+    url: https://www.squarespace.com
   - name: Square
     url: https://squareup.com
+  - name: Stripe
+    url: https://stripe.com
   - name: GitHub
     url: https://github.com
   - name: Netlify 
     url: https://www.netlify.com
   - name: Vercel
     url: https://vercel.com
-
+  - name: Termly
+    url: https://termly.io
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
