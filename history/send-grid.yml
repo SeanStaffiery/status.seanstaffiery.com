@@ -1,7 +1,7 @@
 url: https://sendgrid.com
-status: down
-code: 403
-responseTime: 460
-lastUpdated: 2024-10-14T15:07:55.941Z
+status: up
+code: 200
+responseTime: 367
+lastUpdated: 2024-10-14T15:28:01.879Z
 startTime: 2022-07-30T00:19:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
