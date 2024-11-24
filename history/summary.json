@@ -220,18 +220,20 @@
     "url": "https://www.squarespace.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.squarespace.com.ico",
     "slug": "squarespace",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 232,
-    "timeDay": 132,
-    "timeWeek": 191,
-    "timeMonth": 216,
-    "timeYear": 232,
-    "dailyMinutesDown": {}
+    "time": 231,
+    "timeDay": 143,
+    "timeWeek": 187,
+    "timeMonth": 214,
+    "timeYear": 231,
+    "dailyMinutesDown": {
+      "2024-11-24": 0
+    }
   },
   {
     "name": "Square",
