@@ -222,18 +222,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.squarespace.com.ico",
     "slug": "squarespace",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
     "time": 225,
     "timeDay": 126,
     "timeWeek": 204,
     "timeMonth": 198,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2024-12-04": 10,
       "2024-11-24": 22
     }
   },
