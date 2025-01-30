@@ -282,18 +282,20 @@
     "url": "https://github.com",
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "git-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 134,
-    "timeDay": 65,
-    "timeWeek": 208,
-    "timeMonth": 150,
-    "timeYear": 131,
-    "dailyMinutesDown": {}
+    "timeDay": 54,
+    "timeWeek": 188,
+    "timeMonth": 147,
+    "timeYear": 130,
+    "dailyMinutesDown": {
+      "2025-01-30": 0
+    }
   },
   {
     "name": "Netlify",
