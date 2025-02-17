@@ -338,9 +338,9 @@
     "url": "https://termly.io",
     "icon": "https://icons.duckduckgo.com/ip3/termly.io.ico",
     "slug": "termly",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -349,6 +349,8 @@
     "timeWeek": 209,
     "timeMonth": 238,
     "timeYear": 242,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-17": 0
+    }
   }
 ]
