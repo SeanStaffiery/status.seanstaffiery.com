@@ -216,19 +216,19 @@
     "url": "https://firebase.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/firebase.google.com.ico",
     "slug": "firebase",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 624,
-    "timeDay": 347,
-    "timeWeek": 462,
-    "timeMonth": 492,
-    "timeYear": 607,
+    "timeDay": 357,
+    "timeWeek": 453,
+    "timeMonth": 489,
+    "timeYear": 606,
     "dailyMinutesDown": {
-      "2025-06-12": 0
+      "2025-06-12": 10
     }
   },
   {
