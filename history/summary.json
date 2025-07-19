@@ -238,9 +238,9 @@
     "slug": "squarespace",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.23%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.97%",
     "time": 248,
     "timeDay": 139,
@@ -248,7 +248,6 @@
     "timeMonth": 220,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2025-07-19": 8,
       "2025-07-18": 18,
       "2025-07-16": 18,
       "2025-07-11": 24,
@@ -340,19 +339,19 @@
     "url": "https://vercel.com",
     "icon": "https://icons.duckduckgo.com/ip3/vercel.com.ico",
     "slug": "vercel",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 174,
-    "timeDay": 130,
-    "timeWeek": 129,
-    "timeMonth": 141,
+    "timeDay": 167,
+    "timeWeek": 138,
+    "timeMonth": 143,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2025-07-19": 0
+      "2025-07-19": 9
     }
   },
   {
