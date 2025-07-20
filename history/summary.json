@@ -238,9 +238,9 @@
     "slug": "squarespace",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "97.97%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.47%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.97%",
     "time": 248,
     "timeDay": 194,
@@ -248,7 +248,7 @@
     "timeMonth": 220,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2025-07-20": 29,
+      "2025-07-20": 18,
       "2025-07-18": 18,
       "2025-07-16": 18,
       "2025-07-11": 24,
@@ -340,10 +340,10 @@
     "url": "https://vercel.com",
     "icon": "https://icons.duckduckgo.com/ip3/vercel.com.ico",
     "slug": "vercel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 174,
@@ -351,7 +351,9 @@
     "timeWeek": 134,
     "timeMonth": 142,
     "timeYear": 174,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-20": 1
+    }
   },
   {
     "name": "Termly",
