@@ -243,7 +243,7 @@
     "time": 243,
     "timeDay": 262,
     "timeWeek": 187,
-    "timeMonth": 214,
+    "timeMonth": 212,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2025-07-30": 121,
@@ -345,10 +345,10 @@
     "url": "https://vercel.com",
     "icon": "https://icons.duckduckgo.com/ip3/vercel.com.ico",
     "slug": "vercel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.99%",
     "time": 178,
@@ -357,6 +357,7 @@
     "timeMonth": 209,
     "timeYear": 178,
     "dailyMinutesDown": {
+      "2025-08-17": 1,
       "2025-07-26": 22,
       "2025-07-24": 23,
       "2025-07-20": 20
