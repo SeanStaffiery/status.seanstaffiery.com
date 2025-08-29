@@ -24,6 +24,8 @@ on:
 jobs:
   release:
     name: Generate graphs
+    permissions:
+      contents: read
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
