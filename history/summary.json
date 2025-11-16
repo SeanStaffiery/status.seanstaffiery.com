@@ -4,19 +4,19 @@
     "url": "https://digitalocean.com",
     "icon": "https://icons.duckduckgo.com/ip3/digitalocean.com.ico",
     "slug": "digital-ocean",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 187,
-    "timeDay": 199,
-    "timeWeek": 265,
-    "timeMonth": 232,
+    "timeDay": 243,
+    "timeWeek": 273,
+    "timeMonth": 235,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2025-11-16": 0
+      "2025-11-16": 16
     }
   },
   {
