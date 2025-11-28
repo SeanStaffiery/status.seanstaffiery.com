@@ -264,19 +264,19 @@
     "url": "https://squareup.com",
     "icon": "https://icons.duckduckgo.com/ip3/squareup.com.ico",
     "slug": "square",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 307,
-    "timeWeek": 247,
-    "timeMonth": 249,
-    "timeYear": 210,
+    "time": 210,
+    "timeDay": 2077,
+    "timeWeek": 697,
+    "timeMonth": 361,
+    "timeYear": 220,
     "dailyMinutesDown": {
-      "2025-11-28": 0
+      "2025-11-28": 16
     }
   },
   {
