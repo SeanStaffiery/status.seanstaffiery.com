@@ -264,18 +264,20 @@
     "url": "https://squareup.com",
     "icon": "https://icons.duckduckgo.com/ip3/squareup.com.ico",
     "slug": "square",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 202,
+    "time": 203,
     "timeDay": 307,
     "timeWeek": 247,
     "timeMonth": 249,
     "timeYear": 210,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-28": 0
+    }
   },
   {
     "name": "Stripe",
