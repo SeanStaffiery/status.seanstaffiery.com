@@ -210,19 +210,19 @@
     "url": "https://firebase.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/firebase.google.com.ico",
     "slug": "firebase",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 571,
-    "timeDay": 413,
-    "timeWeek": 598,
-    "timeMonth": 545,
+    "time": 570,
+    "timeDay": 462,
+    "timeWeek": 587,
+    "timeMonth": 544,
     "timeYear": 528,
     "dailyMinutesDown": {
-      "2026-01-14": 1
+      "2026-01-14": 14
     }
   },
   {
