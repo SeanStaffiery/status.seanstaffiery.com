@@ -15,8 +15,6 @@
 
 
 name: Update Template CI
-permissions:
-  contents: write
 on:
   schedule:
     - cron: "0 0 * * *"
