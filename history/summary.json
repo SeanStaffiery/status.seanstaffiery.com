@@ -104,18 +104,20 @@
     "url": "https://redsift.com",
     "icon": "https://icons.duckduckgo.com/ip3/redsift.com.ico",
     "slug": "red-sift",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 158,
+    "time": 159,
     "timeDay": 162,
     "timeWeek": 139,
     "timeMonth": 157,
     "timeYear": 170,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-18": 0
+    }
   },
   {
     "name": "Microsoft Azure (Azure)",
