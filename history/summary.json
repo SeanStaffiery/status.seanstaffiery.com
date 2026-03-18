@@ -104,19 +104,19 @@
     "url": "https://redsift.com",
     "icon": "https://icons.duckduckgo.com/ip3/redsift.com.ico",
     "slug": "red-sift",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 159,
-    "timeDay": 162,
-    "timeWeek": 139,
-    "timeMonth": 157,
-    "timeYear": 170,
+    "timeDay": 265,
+    "timeWeek": 168,
+    "timeMonth": 164,
+    "timeYear": 171,
     "dailyMinutesDown": {
-      "2026-03-18": 0
+      "2026-03-18": 23
     }
   },
   {
