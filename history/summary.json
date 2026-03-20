@@ -211,18 +211,20 @@
     "url": "https://firebase.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/firebase.google.com.ico",
     "slug": "firebase",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 556,
-    "timeDay": 318,
-    "timeWeek": 308,
-    "timeMonth": 434,
+    "timeDay": 392,
+    "timeWeek": 328,
+    "timeMonth": 435,
     "timeYear": 504,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-20": 1
+    }
   },
   {
     "name": "Squarespace",
