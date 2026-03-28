@@ -46,19 +46,19 @@
     "url": "https://zoho.com",
     "icon": "https://icons.duckduckgo.com/ip3/zoho.com.ico",
     "slug": "zoho",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 929,
-    "timeDay": 506,
-    "timeWeek": 790,
-    "timeMonth": 918,
-    "timeYear": 1007,
+    "timeDay": 535,
+    "timeWeek": 762,
+    "timeMonth": 906,
+    "timeYear": 1006,
     "dailyMinutesDown": {
-      "2026-03-28": 0
+      "2026-03-28": 24
     }
   },
   {
