@@ -88,16 +88,16 @@
     "url": "https://sendgrid.com",
     "icon": "https://icons.duckduckgo.com/ip3/sendgrid.com.ico",
     "slug": "send-grid",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "96.86%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "98.44%",
-    "uptimeYear": "99.87%",
+    "uptimeDay": "94.81%",
+    "uptimeWeek": "98.01%",
+    "uptimeMonth": "98.37%",
+    "uptimeYear": "99.86%",
     "time": 330,
-    "timeDay": 423,
-    "timeWeek": 355,
-    "timeMonth": 396,
+    "timeDay": 405,
+    "timeWeek": 353,
+    "timeMonth": 395,
     "timeYear": 344,
     "dailyMinutesDown": {
       "2026-06-04": 34,
@@ -107,7 +107,7 @@
       "2026-06-09": 71,
       "2026-06-13": 19,
       "2026-06-12": 12,
-      "2026-06-14": 45
+      "2026-06-14": 75
     }
   },
   {
