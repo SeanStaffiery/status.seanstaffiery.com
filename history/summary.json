@@ -88,9 +88,9 @@
     "url": "https://sendgrid.com",
     "icon": "https://icons.duckduckgo.com/ip3/sendgrid.com.ico",
     "slug": "send-grid",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.81%",
     "uptimeYear": "99.82%",
@@ -109,7 +109,8 @@
       "2026-06-12": 12,
       "2026-06-14": 75,
       "2026-06-15": 138,
-      "2026-06-17": 107
+      "2026-06-17": 107,
+      "2026-06-29": 0
     }
   },
   {
